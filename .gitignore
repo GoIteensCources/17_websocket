@@ -1,0 +1,5 @@
+.env
+uploaded_images
+__pycache__
+.idea
+logs
